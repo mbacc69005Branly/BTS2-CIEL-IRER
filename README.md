@@ -1,7 +1,8 @@
 # BTS2-CIEL-IRER
 Test
-*XXXXX*
-**OOOOO**
+## Level 1
+- *XXXXX*
+- **OOOOO**
 `printf()`
 ```C++
 int M, M1, M2;
